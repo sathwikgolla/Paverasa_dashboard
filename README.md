@@ -332,30 +332,7 @@ Closing Balance = Opening Balance + Cash In − Cash Out
 
 ---
 
-# 👨‍💻 Development Team
 
-## 👤 Sathwik Golla
-
-- 🎨 Frontend Development
-- 📊 Dashboard
-- 💰 Revenue Module
-- 💸 Expense Module
-- 💵 Cash Flow
-- 📈 Profit & Loss
-- 🔐 Authentication
-- 🎯 UI/UX
-
----
-
-## 👤 Akshitha Janga
-
-- ⚙️ Backend Development
-- 🗄 Database Design
-- 🔌 API Development
-- 📑 Reports
-- 📊 Analytics
-
----
 
 # 📊 Project Status
 
