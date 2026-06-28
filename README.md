@@ -1,301 +1,185 @@
-# 🚀 Paverasa ERP – Enterprise Finance & KPI Management System
+<div align="center">
 
-A modern **Enterprise Resource Planning (ERP)** application developed for **Paverasa Pvt. Ltd.** to streamline financial operations, monitor business performance, and provide real-time analytics through an interactive dashboard..
+# 💼 Paverasa ERP
+### 🚀 Enterprise Finance & KPI Management System
 
-The system is designed to centralize all financial data into a single platform, enabling finance managers to make informed decisions using live insights, KPI tracking, and dynamic reports.
+<img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js">
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss">
+<img src="https://img.shields.io/badge/JWT-Authentication-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-Private-red?style=for-the-badge">
 
----
-
-# 📌 Overview
-
-Paverasa ERP provides an integrated solution for managing:
-
-* 💰 Revenue Management
-* 💸 Expense Management
-* 📈 Profit & Loss Analysis
-* 💵 Cash Flow Management
-* 📊 KPI Dashboard
-* 📉 Business Analytics
-* 📑 Financial Reports
-* 👥 User Authentication & Role Management
-
-All modules are connected to a centralized MySQL database and update dynamically based on live business data.
+### 📊 Modern ERP Platform for Financial Management & Business Analytics
 
 ---
 
-# ✨ Key Features
+⭐ Built with **Next.js + React + MySQL**  
+📈 Real-Time Dashboard • 💰 Revenue • 💸 Expenses • 💵 Cash Flow • 📊 KPI Engine
 
-## 📊 Finance Dashboard
-
-The dashboard provides a real-time overview of business performance.
-
-### KPI Cards
-
-* Total Revenue
-* Total Expenses
-* Net Profit
-* Profit Margin
-* Cash Balance
-* Outstanding Payments
-* Pending Bills
-* Active Clients
-* New Clients
-* Revenue Target Achievement
-* Average Transaction Value
-* Invoices Generated
-* Invoices Paid
-
-### Dashboard Features
-
-* Dynamic KPI Cards
-* Interactive Charts
-* Recent Transactions
-* Financial Insights
-* Real-time Database Updates
-* Responsive Design
-* Professional Enterprise UI
-* Automatic Calculations
+</div>
 
 ---
 
-# 💰 Revenue Management
+# ✨ Overview
 
-Complete revenue management system.
+Paverasa ERP is a modern **Enterprise Resource Planning (ERP)** solution developed for **Paverasa Pvt. Ltd.**
 
-### Features
-
-* Add Revenue
-* Edit Revenue
-* Delete Revenue
-* Search Revenue
-* Filter Revenue
-* Revenue Statistics
-* Payment Status Tracking
-* Department-wise Revenue
-* Payment Mode Tracking
-* Invoice Management
+The application centralizes financial operations into one platform, enabling businesses to manage revenue, expenses, cash flow, analytics, reports, and key performance indicators with a beautiful, responsive dashboard.
 
 ---
 
-# 💸 Expense Management
+# 🌟 Key Features
 
-Complete expense tracking system.
+## 📊 Dashboard
 
-### Features
-
-* Add Expense
-* Edit Expense
-* Delete Expense
-* Search Expenses
-* Category Management
-* Vendor Management
-* Department-wise Expenses
-* Payment Tracking
-* Expense Analytics
-
----
-
-# 💵 Cash Flow Management
-
-Monitor business cash movement in real time.
-
-### Features
-
-* Opening Balance
-* Cash In
-* Cash Out
-* Closing Balance
-* Cash Flow Trend
-* Monthly Cash Flow Analysis
-* Revenue vs Expenses Comparison
-* Dynamic Cash Calculations
-* Financial Health Indicators
+- 💰 Total Revenue
+- 💸 Total Expenses
+- 📈 Net Profit
+- 📊 Profit Margin
+- 💵 Cash Balance
+- 📌 Outstanding Payments
+- 🧾 Pending Bills
+- 🎯 Revenue Target Achievement
+- 👥 Active Clients
+- 📑 Recent Transactions
+- 💡 Financial Insights
+- 📈 Interactive Charts
+- 📅 Dynamic Date Filters
 
 ---
 
-# 📈 Profit & Loss
+## 💰 Revenue Management
 
-Automatic business profitability analysis.
+✅ Add Revenue
 
-### Features
+✅ Edit Revenue
 
-* Net Profit Calculation
-* Gross Profit Analysis
-* Profit Margin
-* Revenue vs Expense Comparison
-* Monthly Profit Trends
-* Business Growth Indicators
+✅ Delete Revenue
 
----
+✅ Search Revenue
 
-# 📊 Analytics
+✅ Filter Revenue
 
-Business intelligence dashboard.
+✅ Department-wise Revenue
 
-### Features
+✅ Invoice Management
 
-* Revenue Trends
-* Expense Trends
-* Department Performance
-* Client Analytics
-* Payment Analytics
-* Monthly Comparisons
-* Yearly Comparisons
-* Financial Performance Indicators
+✅ Payment Status Tracking
 
 ---
 
-# 🎯 KPI Engine
+## 💸 Expense Management
 
-Advanced business KPI monitoring.
+✅ Add Expense
 
-### Features
+✅ Edit Expense
 
-* Revenue KPIs
-* Expense KPIs
-* Profit KPIs
-* Cash Flow KPIs
-* Financial Health Score
-* Target Achievement
-* Performance Indicators
-* Growth Metrics
+✅ Delete Expense
 
----
+✅ Vendor Management
 
-# 📑 Reports
+✅ Category Management
 
-Generate detailed financial reports.
+✅ Department Expenses
 
-### Features
-
-* Revenue Reports
-* Expense Reports
-* Profit Reports
-* Cash Flow Reports
-* Department Reports
-* Monthly Reports
-* Yearly Reports
-* Export Ready
+✅ Payment Tracking
 
 ---
 
-# 📅 Dynamic Date Filters
+## 💵 Cash Flow
 
-The entire ERP supports dynamic filtering.
+✅ Opening Balance
 
-Available filters:
+✅ Cash In
 
-* Today
-* Last 7 Days
-* Last 30 Days
-* This Month
-* Last Month
-* This Year
-* Custom Date Range (Planned)
+✅ Cash Out
 
-Changing the selected period automatically updates:
+✅ Closing Balance
 
-* Dashboard KPIs
-* Charts
-* Revenue
-* Expenses
-* Cash Flow
-* Profit & Loss
-* Analytics
-* Reports
-* Financial Insights
+✅ Cash Flow Trend
+
+✅ Revenue vs Expense
+
+✅ Financial Health
 
 ---
 
-# 🔐 Authentication & Security
+## 📈 Profit & Loss
 
-### Authentication
+Automatically calculates
 
-* User Registration
-* Secure Login
-* JWT Authentication
-* Session Management
-* Logout
-
-### Security
-
-* Password Hashing (bcrypt)
-* Protected Routes
-* Input Validation
-* Secure API Routes
-* Role-Based Authorization
-* Environment Variables
+- Net Profit
+- Gross Profit
+- Profit Margin
+- Monthly Profit
+- Revenue vs Expenses
 
 ---
 
-# 👥 User Roles
+## 📊 Analytics
 
-## Finance Manager
-
-* Full Dashboard Access
-* Manage Revenue
-* Manage Expenses
-* Manage Cash Flow
-* View Reports
-* View Analytics
-* KPI Monitoring
-
-## Employee
-
-* Dashboard Access
-* View Revenue
-* View Expenses
-* Read-Only Reports
-
-> **Note:** Administrator accounts are created manually by the system administrator.
+- Revenue Analytics
+- Expense Analytics
+- Department Performance
+- Monthly Comparison
+- Financial Trends
+- KPI Analysis
 
 ---
 
-# 🎨 Modern UI Features
+## 📑 Reports
 
-* Professional Enterprise Dashboard
-* Responsive Design
-* Modern Sidebar Navigation
-* Interactive KPI Cards
-* Dynamic Charts
-* Smooth Animations
-* Clean Minimal Layout
-* Mobile Friendly
-* Optimized User Experience
+- Revenue Reports
+- Expense Reports
+- Cash Flow Reports
+- Profit Reports
+- Business Reports
+
+---
+
+## 🔐 Authentication
+
+- JWT Authentication
+- Secure Login
+- User Registration
+- bcrypt Password Hashing
+- Protected Routes
+- Role Based Access
+
+---
+
+# 🎯 Dynamic Dashboard
+
+The dashboard updates automatically based on:
+
+- 📅 Today
+- 📅 Last 7 Days
+- 📅 Last 30 Days
+- 📅 This Month
+- 📅 Last Month
+- 📅 This Year
+
+Changing the filter refreshes:
+
+- Dashboard KPIs
+- Charts
+- Revenue
+- Expenses
+- Cash Flow
+- Analytics
+- Reports
+- Profit & Loss
 
 ---
 
 # 🛠 Tech Stack
 
-## Frontend
-
-* Next.js
-* React.js
-* Tailwind CSS
-* JavaScript / TypeScript
-
-## Backend
-
-* Next.js API Routes
-* Node.js
-
-## Database
-
-* MySQL
-
-## Authentication
-
-* JWT
-* bcrypt
-
-## Charts
-
-* Recharts
-
-## UI Components
-
-* Tailwind CSS
-* React Icons
+| Frontend | Backend | Database | Authentication | Charts |
+|----------|----------|-----------|---------------|---------|
+| Next.js | Next.js API | MySQL | JWT | Recharts |
+| React | Node.js | SQL | bcrypt | Responsive Charts |
+| Tailwind CSS | REST API | | | |
 
 ---
 
@@ -326,33 +210,32 @@ app/
 ├── hooks/
 ├── lib/
 ├── services/
-├── utils/
-└── styles/
+└── utils/
 ```
 
 ---
 
 # ⚙️ Installation
 
-Clone the repository
+### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/yourusername/paverasa-dashboard.git
 ```
 
-Navigate into the project
+### Navigate
 
 ```bash
 cd paverasa-dashboard
 ```
 
-Install dependencies
+### Install Packages
 
 ```bash
 npm install
 ```
 
-Create a `.env.local` file
+### Configure Environment
 
 ```env
 DB_HOST=localhost
@@ -364,13 +247,13 @@ DB_PASSWORD=your_password
 JWT_SECRET=your_secret_key
 ```
 
-Run the application
+### Start Server
 
 ```bash
 npm run dev
 ```
 
-Open your browser
+Visit
 
 ```
 http://localhost:3000
@@ -378,21 +261,20 @@ http://localhost:3000
 
 ---
 
-# 🗄 Database Tables
+# 🗄 Database
 
-* Users
-* Revenue
-* Expenses
-* Targets
-* Departments
-* Clients
-* Vendors
-* Payments
-* Transactions
+- 👤 Users
+- 💰 Revenue
+- 💸 Expenses
+- 🎯 Targets
+- 🏢 Departments
+- 👥 Clients
+- 📑 Transactions
+- 💳 Payments
 
 ---
 
-# 📊 Financial Calculations
+# 📈 Financial Calculations
 
 ### Net Profit
 
@@ -403,7 +285,7 @@ Net Profit = Total Revenue − Total Expenses
 ### Profit Margin
 
 ```text
-Profit Margin = (Net Profit ÷ Total Revenue) × 100
+Profit Margin = (Net Profit / Total Revenue) × 100
 ```
 
 ### Cash Flow
@@ -414,84 +296,88 @@ Closing Balance = Opening Balance + Cash In − Cash Out
 
 ---
 
-# 🚀 Upcoming Enhancements
+# 🔐 User Roles
 
-* AI Financial Insights
-* Predictive Revenue Forecasting
-* Budget Planning
-* Invoice Management
-* Payroll Module
-* Inventory Integration
-* Email Notifications
-* PDF Export
-* Excel Export
-* CSV Export
-* Audit Logs
-* Activity Timeline
-* Multi-Branch Support
-* Multi-Currency Support
+## 👨‍💼 Finance Manager
+
+- Full Dashboard
+- Revenue Management
+- Expense Management
+- Reports
+- Analytics
+- KPI Engine
+
+---
+
+## 👨‍💻 Employee
+
+- Dashboard
+- Revenue View
+- Expense View
+- Read-only Reports
+
+---
+
+# 🚀 Roadmap
+
+- 🤖 AI Financial Insights
+- 📈 Revenue Forecasting
+- 📄 PDF Export
+- 📊 Excel Export
+- 📧 Email Reports
+- 🔔 Notifications
+- 📋 Audit Logs
+- 🌍 Multi-Branch Support
+- 💱 Multi-Currency Support
 
 ---
 
 # 👨‍💻 Development Team
 
-### Sathwik Golla
+## 👤 Sathwik Golla
 
-* Dashboard Development
-* Revenue Management
-* Expense Management
-* Cash Flow Module
-* Profit & Loss
-* Authentication
-* UI/UX Design
-* Frontend Development
-
-### Akshitha Janga
-
-* Backend Development
-* Database Design
-* API Development
-* Reports Module
-* Analytics
-* System Architecture
+- 🎨 Frontend Development
+- 📊 Dashboard
+- 💰 Revenue Module
+- 💸 Expense Module
+- 💵 Cash Flow
+- 📈 Profit & Loss
+- 🔐 Authentication
+- 🎯 UI/UX
 
 ---
 
-# 📈 Project Status
+## 👤 Akshitha Janga
 
-✅ Authentication System
-
-✅ Dashboard
-
-✅ Revenue Module
-
-✅ Expense Module
-
-✅ Profit & Loss
-
-✅ Cash Flow
-
-✅ Analytics
-
-✅ Reports
-
-✅ KPI Engine
-
-✅ Database Integration
-
-✅ JWT Authentication
-
-✅ Responsive UI
-
-🚧 AI Financial Insights (In Progress)
-
-🚧 Forecasting Module (Planned)
-
-🚧 Export Features (Planned)
+- ⚙️ Backend Development
+- 🗄 Database Design
+- 🔌 API Development
+- 📑 Reports
+- 📊 Analytics
 
 ---
 
-# 📄 License
+# 📊 Project Status
 
-This project was developed exclusively for **Paverasa Pvt. Ltd.** as part of an internal Enterprise Resource Planning (ERP) initiative. All rights reserved.
+| Module | Status |
+|---------|--------|
+| 🔐 Authentication | ✅ Complete |
+| 📊 Dashboard | ✅ Complete |
+| 💰 Revenue | ✅ Complete |
+| 💸 Expenses | ✅ Complete |
+| 💵 Cash Flow | ✅ Complete |
+| 📈 Profit & Loss | ✅ Complete |
+| 📊 Analytics | ✅ Complete |
+| 📑 Reports | ✅ Complete |
+| 🎯 KPI Engine | ✅ Complete |
+| 📱 Responsive UI | ✅ Complete |
 
+---
+
+<div align="center">
+
+## ⭐ If you like this project, don't forget to star the repository!
+
+**Made with ❤️ using Next.js, React & MySQL**
+
+</div>
