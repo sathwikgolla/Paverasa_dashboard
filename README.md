@@ -1,6 +1,6 @@
 # 🚀 Paverasa ERP – Enterprise Finance & KPI Management System
 
-A modern **Enterprise Resource Planning (ERP)** application developed for **Paverasa Pvt. Ltd.** to streamline financial operations, monitor business performance, and provide real-time analytics through an interactive dashboard.
+A modern **Enterprise Resource Planning (ERP)** application developed for **Paverasa Pvt. Ltd.** to streamline financial operations, monitor business performance, and provide real-time analytics through an interactive dashboard..
 
 The system is designed to centralize all financial data into a single platform, enabling finance managers to make informed decisions using live insights, KPI tracking, and dynamic reports.
 
